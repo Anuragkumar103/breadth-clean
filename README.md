@@ -202,9 +202,9 @@ For any questions or feedback, please reach out to:
 
 
 
-- **Email**: chadnannekya@gmail.com
+- **Email**: luckyanurag9045@gmail.com
 
-- **GitHub**: [Chandan Nekya](https://github.com/chandannekya)
+- **GitHub**: [Anurag Kumar](https://github.com/anuragkumar103)
 
 
 
